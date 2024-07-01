@@ -13,7 +13,7 @@
 
 
 <p>This Kinesis Data Analytics for Apache Flink Application reads from a Kinesis Data Stream, Serializes the records and then writes them to an Aurora Postgres Table (every 100 messages).
-    <br> 
+    <br>
 </p>
 
 ## 📝 Table of Contents
@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-- Java 1.8
+- Java 11
 - Apache Flink
 - A Local or Remote Postgres Database
 - A Kinesis Data Stream
